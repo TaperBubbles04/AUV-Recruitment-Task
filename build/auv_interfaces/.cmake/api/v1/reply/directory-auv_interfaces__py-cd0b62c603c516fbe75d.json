@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "auv_interfaces__py",
+		"source" : "/ros_workspace/src/build/auv_interfaces/auv_interfaces__py"
+	}
+}

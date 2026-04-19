@@ -1,0 +1,6 @@
+{
+  "package_name": "auv_interfaces",
+  "non_idl_tuples": [
+    "/ros_workspace/src/auv_interfaces:msg/BotPose.msg"
+  ]
+}

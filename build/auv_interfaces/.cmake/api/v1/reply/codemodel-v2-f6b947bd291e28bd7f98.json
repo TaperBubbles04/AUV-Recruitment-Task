@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-636259b96018e66c665b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "auv_interfaces__py",
+					"jsonFile" : "directory-auv_interfaces__py-cd0b62c603c516fbe75d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/ros_workspace/src/build/auv_interfaces/auv_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "auv_interfaces__rs",
+					"jsonFile" : "directory-auv_interfaces__rs-023e1ccc8177eed733f4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/ros_workspace/src/build/auv_interfaces/auv_interfaces__rs",
+					"targetIndexes" : 
+					[
+						16
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "auv_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_auv_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_auv_interfaces_egg-e2edc461ac5529881448.json",
+					"name" : "ament_cmake_python_build_auv_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_auv_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_auv_interfaces-b7227269b5c5d3ca2c92.json",
+					"name" : "ament_cmake_python_copy_auv_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces-b865abe17bc7d3dc403e.json",
+					"name" : "auv_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__cpp-6982f9670522a77a2192.json",
+					"name" : "auv_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "auv_interfaces__py::@dd5b550cf2cc9631fe8b",
+					"jsonFile" : "target-auv_interfaces__py-98a9addfbe0edc485ec2.json",
+					"name" : "auv_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_generator_c-10e54d752e8d7049a5e1.json",
+					"name" : "auv_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_generator_py-63309ba8f11d8d7ed32a.json",
+					"name" : "auv_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_typesupport_c-7cd43523c0881af4b7b2.json",
+					"name" : "auv_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_typesupport_c__pyext-0fef225553b698d55856.json",
+					"name" : "auv_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_typesupport_cpp-ef04fe5bc755594ac912.json",
+					"name" : "auv_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_typesupport_fastrtps_c-68375ee8956091c3563f.json",
+					"name" : "auv_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_typesupport_fastrtps_c__pyext-8b56b357ecd4e7c114ac.json",
+					"name" : "auv_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_typesupport_fastrtps_cpp-9424849f9439343213fa.json",
+					"name" : "auv_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_typesupport_introspection_c-b1fe836289ec33f4e1a0.json",
+					"name" : "auv_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_typesupport_introspection_c__pyext-11dfc713d148beb64915.json",
+					"name" : "auv_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces__rosidl_typesupport_introspection_cpp-d7045d0cf819b4342962.json",
+					"name" : "auv_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "auv_interfaces__rs::@948c429a550201d823de",
+					"jsonFile" : "target-auv_interfaces__rs-b9d0040db09c69e212b1.json",
+					"name" : "auv_interfaces__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auv_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auv_interfaces_uninstall-88207c8141d501d33507.json",
+					"name" : "auv_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-cc699f3a33f14afbfe8c.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/ros_workspace/src/build/auv_interfaces",
+		"source" : "/ros_workspace/src/auv_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

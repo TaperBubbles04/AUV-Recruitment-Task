@@ -1,0 +1,61 @@
+[0.575s] Invoking command in '/ros_workspace/src/auv_recruitment': PYTHONPATH=/ros_workspace/src/build/auv_recruitment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/auv_recruitment build --build-base /ros_workspace/src/build/auv_recruitment/build install --record /ros_workspace/src/build/auv_recruitment/install.log --single-version-externally-managed install_data
+[0.783s] running egg_info
+[0.783s] creating ../build/auv_recruitment/auv_recruitment.egg-info
+[0.783s] writing ../build/auv_recruitment/auv_recruitment.egg-info/PKG-INFO
+[0.783s] writing dependency_links to ../build/auv_recruitment/auv_recruitment.egg-info/dependency_links.txt
+[0.784s] writing entry points to ../build/auv_recruitment/auv_recruitment.egg-info/entry_points.txt
+[0.784s] writing requirements to ../build/auv_recruitment/auv_recruitment.egg-info/requires.txt
+[0.784s] writing top-level names to ../build/auv_recruitment/auv_recruitment.egg-info/top_level.txt
+[0.784s] writing manifest file '../build/auv_recruitment/auv_recruitment.egg-info/SOURCES.txt'
+[0.785s] reading manifest file '../build/auv_recruitment/auv_recruitment.egg-info/SOURCES.txt'
+[0.786s] writing manifest file '../build/auv_recruitment/auv_recruitment.egg-info/SOURCES.txt'
+[0.786s] running build
+[0.786s] running build_py
+[0.786s] creating /ros_workspace/src/build/auv_recruitment/build
+[0.787s] creating /ros_workspace/src/build/auv_recruitment/build/lib
+[0.787s] creating /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment
+[0.787s] copying auv_recruitment/task4.py -> /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment
+[0.787s] copying auv_recruitment/task2_process.py -> /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment
+[0.787s] copying auv_recruitment/task3_navigator.py -> /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment
+[0.787s] copying auv_recruitment/task2_out.py -> /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment
+[0.787s] copying auv_recruitment/task2_pub.py -> /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment
+[0.787s] copying auv_recruitment/task1.py -> /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment
+[0.787s] copying auv_recruitment/task3_commander.py -> /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment
+[0.787s] copying auv_recruitment/__init__.py -> /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment
+[0.788s] running install
+[0.788s] running install_lib
+[0.789s] creating /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment
+[0.789s] copying /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment/task4.py -> /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment
+[0.789s] copying /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment/task2_process.py -> /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment
+[0.789s] copying /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment/task3_navigator.py -> /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment
+[0.789s] copying /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment/task2_out.py -> /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment
+[0.789s] copying /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment/task2_pub.py -> /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment
+[0.789s] copying /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment/task1.py -> /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment
+[0.790s] copying /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment/task3_commander.py -> /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment
+[0.790s] copying /ros_workspace/src/build/auv_recruitment/build/lib/auv_recruitment/__init__.py -> /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment
+[0.790s] byte-compiling /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment/task4.py to task4.cpython-310.pyc
+[0.791s] byte-compiling /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment/task2_process.py to task2_process.cpython-310.pyc
+[0.791s] byte-compiling /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment/task3_navigator.py to task3_navigator.cpython-310.pyc
+[0.792s] byte-compiling /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment/task2_out.py to task2_out.cpython-310.pyc
+[0.792s] byte-compiling /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment/task2_pub.py to task2_pub.cpython-310.pyc
+[0.792s] byte-compiling /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment/task1.py to task1.cpython-310.pyc
+[0.793s] byte-compiling /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment/task3_commander.py to task3_commander.cpython-310.pyc
+[0.793s] byte-compiling /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment/__init__.py to __init__.cpython-310.pyc
+[0.793s] running install_data
+[0.793s] creating /ros_workspace/src/install/auv_recruitment/share/ament_index
+[0.793s] creating /ros_workspace/src/install/auv_recruitment/share/ament_index/resource_index
+[0.793s] creating /ros_workspace/src/install/auv_recruitment/share/ament_index/resource_index/packages
+[0.793s] copying resource/auv_recruitment -> /ros_workspace/src/install/auv_recruitment/share/ament_index/resource_index/packages
+[0.793s] copying package.xml -> /ros_workspace/src/install/auv_recruitment/share/auv_recruitment
+[0.793s] running install_egg_info
+[0.796s] Copying ../build/auv_recruitment/auv_recruitment.egg-info to /ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages/auv_recruitment-0.0.0-py3.10.egg-info
+[0.797s] running install_scripts
+[0.818s] Installing task1 script to /ros_workspace/src/install/auv_recruitment/lib/auv_recruitment
+[0.818s] Installing task2_out script to /ros_workspace/src/install/auv_recruitment/lib/auv_recruitment
+[0.818s] Installing task2_process script to /ros_workspace/src/install/auv_recruitment/lib/auv_recruitment
+[0.819s] Installing task2_pub script to /ros_workspace/src/install/auv_recruitment/lib/auv_recruitment
+[0.819s] Installing task3_commander script to /ros_workspace/src/install/auv_recruitment/lib/auv_recruitment
+[0.819s] Installing task3_navigator script to /ros_workspace/src/install/auv_recruitment/lib/auv_recruitment
+[0.819s] Installing task4 script to /ros_workspace/src/install/auv_recruitment/lib/auv_recruitment
+[0.819s] writing list of installed files to '/ros_workspace/src/build/auv_recruitment/install.log'
+[0.852s] Invoked command in '/ros_workspace/src/auv_recruitment' returned '0': PYTHONPATH=/ros_workspace/src/build/auv_recruitment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros_workspace/src/install/auv_recruitment/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/auv_recruitment build --build-base /ros_workspace/src/build/auv_recruitment/build install --record /ros_workspace/src/build/auv_recruitment/install.log --single-version-externally-managed install_data
