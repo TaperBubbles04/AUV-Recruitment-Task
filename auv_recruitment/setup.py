@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'comm_link = auv_recruitment.comm_link:main'
         ],
     },
 )
