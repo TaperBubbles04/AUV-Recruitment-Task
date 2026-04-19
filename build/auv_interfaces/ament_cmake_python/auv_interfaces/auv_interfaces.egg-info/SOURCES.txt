@@ -4,3 +4,5 @@ auv_interfaces.egg-info/PKG-INFO
 auv_interfaces.egg-info/SOURCES.txt
 auv_interfaces.egg-info/dependency_links.txt
 auv_interfaces.egg-info/top_level.txt
+auv_interfaces/msg/__init__.py
+auv_interfaces/msg/_bot_pose.py

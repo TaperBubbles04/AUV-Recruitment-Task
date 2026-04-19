@@ -1,0 +1,165 @@
+[0.018s] Invoking command in '/ros_workspace/src/build/auv_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /ros_workspace/src/build/auv_interfaces -- -j12 -l12
+[0.069s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_generator_c[0m
+[0.082s] [  6%] Built target auv_interfaces__cpp
+[0.082s] [  6%] Built target auv_interfaces__rs
+[0.088s] [ 15%] Built target auv_interfaces__rosidl_generator_c
+[0.095s] [ 15%] Built target ament_cmake_python_copy_auv_interfaces
+[0.098s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_typesupport_introspection_cpp[0m
+[0.098s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_typesupport_cpp[0m
+[0.098s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[0.105s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_typesupport_c[0m
+[0.105s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_typesupport_fastrtps_c[0m
+[0.106s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_typesupport_introspection_c[0m
+[0.119s] [ 25%] Built target auv_interfaces__rosidl_typesupport_cpp
+[0.124s] [ 37%] Built target auv_interfaces__rosidl_typesupport_c
+[0.127s] [ 43%] Built target auv_interfaces__rosidl_typesupport_introspection_cpp
+[0.127s] [ 53%] Built target auv_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.127s] [ 62%] Built target auv_interfaces__rosidl_typesupport_introspection_c
+[0.130s] [ 71%] Built target auv_interfaces__rosidl_typesupport_fastrtps_c
+[0.158s] [ 71%] Built target auv_interfaces
+[0.184s] [ 75%] Built target auv_interfaces__py
+[0.198s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_generator_py[0m
+[0.215s] [ 81%] Built target auv_interfaces__rosidl_generator_py
+[0.229s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_typesupport_c__pyext[0m
+[0.229s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[0.229s] [35m[1mConsolidate compiler generated dependencies of target auv_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.247s] [ 96%] Built target auv_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.247s] [ 96%] Built target auv_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.247s] [100%] Built target auv_interfaces__rosidl_typesupport_c__pyext
+[0.348s] running egg_info
+[0.349s] writing auv_interfaces.egg-info/PKG-INFO
+[0.349s] writing dependency_links to auv_interfaces.egg-info/dependency_links.txt
+[0.349s] writing top-level names to auv_interfaces.egg-info/top_level.txt
+[0.352s] reading manifest file 'auv_interfaces.egg-info/SOURCES.txt'
+[0.352s] writing manifest file 'auv_interfaces.egg-info/SOURCES.txt'
+[0.396s] [100%] Built target ament_cmake_python_build_auv_interfaces_egg
+[0.411s] Invoked command in '/ros_workspace/src/build/auv_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /ros_workspace/src/build/auv_interfaces -- -j12 -l12
+[0.423s] Invoking command in '/ros_workspace/src/build/auv_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /ros_workspace/src/build/auv_interfaces
+[0.432s] -- Install configuration: ""
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/ament_index/resource_index/rosidl_interfaces/auv_interfaces
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/rosidl_generator_c__visibility_control.h
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/bot_pose.h
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__struct.h
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__type_support.h
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__functions.h
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__functions.c
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/environment/library_path.sh
+[0.433s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/environment/library_path.dsv
+[0.434s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/lib/libauv_interfaces__rosidl_generator_c.so
+[0.434s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces
+[0.434s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg
+[0.434s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail
+[0.434s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__rosidl_typesupport_fastrtps_c.h
+[0.434s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.434s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/lib/libauv_interfaces__rosidl_typesupport_fastrtps_c.so
+[0.434s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces
+[0.435s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg
+[0.435s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.435s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail
+[0.435s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__rosidl_typesupport_introspection_c.h
+[0.435s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__type_support.c
+[0.435s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/lib/libauv_interfaces__rosidl_typesupport_introspection_c.so
+[0.435s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/lib/libauv_interfaces__rosidl_typesupport_c.so
+[0.436s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces
+[0.436s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg
+[0.436s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/bot_pose.hpp
+[0.436s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.436s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail
+[0.436s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__traits.hpp
+[0.436s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__builder.hpp
+[0.436s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__struct.hpp
+[0.436s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__type_support.hpp
+[0.437s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces
+[0.437s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg
+[0.437s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.437s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail
+[0.437s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/dds_fastrtps
+[0.437s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__rosidl_typesupport_fastrtps_cpp.hpp
+[0.437s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/lib/libauv_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[0.437s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces
+[0.437s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg
+[0.438s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail
+[0.438s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__rosidl_typesupport_introspection_cpp.hpp
+[0.438s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/include/auv_interfaces/auv_interfaces/msg/detail/bot_pose__type_support.cpp
+[0.438s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/lib/libauv_interfaces__rosidl_typesupport_introspection_cpp.so
+[0.438s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/lib/libauv_interfaces__rosidl_typesupport_cpp.so
+[0.439s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/environment/pythonpath.sh
+[0.439s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/environment/pythonpath.dsv
+[0.439s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces-0.0.0-py3.10.egg-info
+[0.439s] -- Installing: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.439s] -- Installing: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[0.439s] -- Installing: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[0.440s] -- Installing: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.440s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces
+[0.440s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/libauv_interfaces__rosidl_generator_py.so
+[0.440s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/_auv_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.440s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/auv_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.440s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/msg
+[0.440s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/msg/_bot_pose_s.c
+[0.441s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/msg/__init__.py
+[0.441s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/msg/_bot_pose.py
+[0.441s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/_auv_interfaces_s.ep.rosidl_typesupport_c.c
+[0.441s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/auv_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.441s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/_auv_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[0.441s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/auv_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.441s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/__init__.py
+[0.474s] Listing '/ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces'...
+[0.474s] Listing '/ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/msg'...
+[0.484s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/auv_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.484s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/auv_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.484s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/local/lib/python3.10/dist-packages/auv_interfaces/auv_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.485s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/lib/libauv_interfaces__rosidl_generator_py.so
+[0.485s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/ament_index/resource_index/rust_packages/auv_interfaces
+[0.485s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/rust
+[0.485s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/rust/build.rs
+[0.485s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/rust/src
+[0.486s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/rust/src/msg.rs
+[0.486s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/rust/src/msg
+[0.486s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/rust/src/msg/rmw.rs
+[0.486s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/rust/src/lib.rs
+[0.486s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/rust/Cargo.toml
+[0.486s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/msg/BotPose.idl
+[0.486s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/msg/BotPose.msg
+[0.486s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/ament_index/resource_index/package_run_dependencies/auv_interfaces
+[0.486s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/ament_index/resource_index/parent_prefix_path/auv_interfaces
+[0.486s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/environment/ament_prefix_path.sh
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/environment/ament_prefix_path.dsv
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/environment/path.sh
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/environment/path.dsv
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/local_setup.bash
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/local_setup.sh
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/local_setup.zsh
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/local_setup.dsv
+[0.487s] -- Installing: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/package.dsv
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/ament_index/resource_index/packages/auv_interfaces
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/export_auv_interfaces__rosidl_generator_cExport.cmake
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/export_auv_interfaces__rosidl_generator_cExport-noconfig.cmake
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/export_auv_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[0.487s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/export_auv_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/auv_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/auv_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/auv_interfaces__rosidl_typesupport_cExport.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/auv_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/export_auv_interfaces__rosidl_generator_cppExport.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/export_auv_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/export_auv_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/auv_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/auv_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/auv_interfaces__rosidl_typesupport_cppExport.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/auv_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/export_auv_interfaces__rosidl_generator_pyExport.cmake
+[0.488s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/export_auv_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[0.489s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/rosidl_cmake-extras.cmake
+[0.489s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.489s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[0.489s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[0.489s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.489s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.489s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.489s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/auv_interfacesConfig.cmake
+[0.489s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/cmake/auv_interfacesConfig-version.cmake
+[0.489s] -- Up-to-date: /ros_workspace/src/install/auv_interfaces/share/auv_interfaces/package.xml
+[0.493s] Invoked command in '/ros_workspace/src/build/auv_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /ros_workspace/src/build/auv_interfaces

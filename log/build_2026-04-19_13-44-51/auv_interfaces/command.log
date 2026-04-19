@@ -1,0 +1,4 @@
+Invoking command in '/ros_workspace/src/build/auv_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /ros_workspace/src/build/auv_interfaces -- -j12 -l12
+Invoked command in '/ros_workspace/src/build/auv_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /ros_workspace/src/build/auv_interfaces -- -j12 -l12
+Invoking command in '/ros_workspace/src/build/auv_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /ros_workspace/src/build/auv_interfaces
+Invoked command in '/ros_workspace/src/build/auv_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /ros_workspace/src/build/auv_interfaces
