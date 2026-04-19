@@ -29,7 +29,8 @@ setup(
             'task2_process = auv_recruitment.task2_process:main',
             'task2_out = auv_recruitment.task2_out:main',
             'task3_commander = auv_recruitment.task3_commander:main',
-            'task3_navigator = auv_recruitment.task3_navigator:main'
+            'task3_navigator = auv_recruitment.task3_navigator:main',
+            'task4_vision = auv_recruitment.task4_vision:main'
         ],
     },
 )
